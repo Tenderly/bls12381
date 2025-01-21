@@ -1,4 +1,4 @@
-module github.com/Tenderly/bls12381
+module github.com/tenderly/bls12381
 
 go 1.22.5
 
